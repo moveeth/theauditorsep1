@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moveeth.github.io/theauditorsep1/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
